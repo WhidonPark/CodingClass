@@ -32,3 +32,5 @@ def visualize_classifier(classifier, X, y):
     # plt.savefig('파일명.png')
     
     plt.show()
+
+#실습 파일 확인 완료 
